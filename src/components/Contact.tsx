@@ -14,12 +14,6 @@ const Contact = () => {
       label: 'Email',
       value: 'enes22seyfovski@gmail.com',
       href: 'mailto:enes22seyfovski@gmail.com'
-    },
-    {
-      icon: <Phone className="text-blue-600" size={24} />,
-      label: 'Phone',
-      value: '+38977 907 247',
-      href: 'tel:+38977907247'
     }
   ];
 

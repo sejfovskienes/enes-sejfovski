@@ -50,7 +50,7 @@ const About = () => {
               Hello! I'm Enes, a passionate software engineering student.
             </h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              At 22 years old, I'm currently in my final year at the Faculty of Computer Science 
+              At 23 years old, I'm currently in my final year at the Faculty of Computer Science 
               and Engineering (FCSE) in Skopje, with an expected graduation in July 2025. My academic 
               journey has led me to specialize in machine learning and data science, where I've 
               discovered my passion for building intelligent solutions.
